@@ -3,6 +3,9 @@ name: soul-ring-hunter
 description: 把文章、链接或外部 Skill 中的方法转成适合使用者的技能增量；先查已有能力与获准背景，补齐用途，小试验后复用、改造或新建，并验证、复盘及跟踪已登记上游的相关更新。适用于“吸收这个方法”“把这个变成我的 Skill”“检查已吸收技能的上游更新”；普通摘要不启动吸收。
 metadata:
   version: 0.1.1-alpha.1
+  author: "萝卜叔叔 (kelvincjf)"
+  homepage: https://github.com/kelvincjf/luobo-skills
+  provenance_id: urn:uuid:399c5c1f-7b31-4cb4-9d62-0d788e3a5826
 ---
 
 # 魂环猎手
