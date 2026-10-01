@@ -8,7 +8,7 @@ import sys
 import tempfile
 import unittest
 
-SCRIPTS = Path(__file__).resolve().parents[1] / "skills/soul-ring-hunter/scripts"
+SCRIPTS = Path(__file__).resolve().parents[1] / "skills/luobo-soul-ring-hunter/scripts"
 sys.path.insert(0, str(SCRIPTS))
 import skill_ops as ops
 import followup

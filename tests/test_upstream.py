@@ -5,7 +5,7 @@ from pathlib import Path
 import tempfile
 import unittest
 
-MODULE = Path(__file__).resolve().parents[1] / "skills" / "soul-ring-hunter" / "scripts" / "upstream.py"
+MODULE = Path(__file__).resolve().parents[1] / "skills" / "luobo-soul-ring-hunter" / "scripts" / "upstream.py"
 spec = importlib.util.spec_from_file_location("upstream", MODULE)
 upstream = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(upstream)
