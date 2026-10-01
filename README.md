@@ -108,4 +108,4 @@ python3 -B -m unittest discover -s tests -v
 
 ## 作者与开源许可
 
-由 **萝卜叔叔（kelvincjf）** 整理开发，按 [MIT License](LICENSE) 开源。允许使用、修改、分发及商用，须按许可证保留版权和许可声明。原始仓库：https://github.com/kelvincjf/luobo-skills。来源标记及第三方方法说明见 [NOTICE.md](NOTICE.md)。
+由 **萝卜叔叔（kelvincjf）** 整理开发，按 [MIT License](LICENSE) 开源。允许使用、修改、分发及商用，须按许可证保留版权和许可声明。原始仓库：[kelvincjf/luobo-skills](https://github.com/kelvincjf/luobo-skills)。来源标记及第三方方法说明见 [NOTICE.md](NOTICE.md)。
